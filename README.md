@@ -10,10 +10,7 @@
 
 Detalhes do desafio: https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Cahmoraes/ignite-template-componentizando-a-aplicacao/blob/main/src/assets/examples/demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![caption](https://github.com/Cahmoraes/ignite-template-componentizando-a-aplicacao/blob/main/src/assets/examples/demo.gif)
 
 ## :computer: Tecnologias utilizadas
 
