@@ -1,4 +1,6 @@
-<img alt="GoStack" src="https://github.com/Cahmoraes/ignite-template-componentizando-a-aplicacao/blob/main/src/assets/examples/cover-reactjs.png" width="100%"/>
+<p align="center">
+  <img alt="GoStack" src="https://github.com/Cahmoraes/ignite-template-componentizando-a-aplicacao/blob/main/src/assets/examples/cover-reactjs.png" height="198"/>
+</p>
 
 <h3 align="center">
   Desafio 02 - Componentizando a aplicação
